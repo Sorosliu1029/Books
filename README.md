@@ -16,4 +16,4 @@
 | [Core Java, Volume II (10th Edition) : Advanced Features](https://book.douban.com/subject/26386880/) | 2020-04-10 |
 | [微服务设计](https://book.douban.com/subject/26772677/) | 2020-04-13 |
 | [深入理解Java虚拟机（第3版） : JVM高级特性与最佳实践](https://book.douban.com/subject/34907497/) | 2020-07-17 |
-| Computer Systems A Programmers Perspective (3rd) | TBD |
+| [Computer Systems: A Programmer's Perspective (3rd)](https://book.douban.com/subject/26344642/) | 2020-11-11 |
