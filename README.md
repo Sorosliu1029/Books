@@ -19,4 +19,4 @@
 | [Computer Systems: A Programmer's Perspective (3rd)](https://book.douban.com/subject/26344642/) | 2020-11-11 |
 | [Humanizing Reviews](https://www.processimpact.com/articles/humanizing_reviews.pdf) | 2021-01-05 |
 | [A Tour of C++ Second Edition](https://book.douban.com/subject/30271421/) | 2021-02-02 |
-| [Database System Concepts](https://book.douban.com/subject/30345517/) | TBD |
+| [Database System Concepts (7th Edition)](https://book.douban.com/subject/30345517/) | TBD |
