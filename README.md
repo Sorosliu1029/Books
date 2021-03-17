@@ -21,3 +21,4 @@
 | [A Tour of C++ Second Edition](https://book.douban.com/subject/30271421/) | 2021-02-02 |
 | [Database System Concepts (7th Edition)](https://book.douban.com/subject/30345517/) | TBD |
 | [C++17 STL Cookbook](https://book.douban.com/subject/27094843/) | TBD |
+| [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11](https://book.douban.com/subject/25923597/) | TBD |
