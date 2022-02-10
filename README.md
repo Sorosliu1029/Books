@@ -22,4 +22,4 @@
 | [C++17 STL Cookbook](https://book.douban.com/subject/27094843/) | 2021-03-31 |
 | [Database System Concepts (7th Edition)](https://book.douban.com/subject/30345517/) | 2021-07-28 |
 | [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://book.douban.com/subject/25923597/) | TBD |
-| [Practical Vim: Edit Text at the Speed of Thought](https://book.douban.com/subject/26678595/) | TBD |
+| [Practical Vim: Edit Text at the Speed of Thought (2nd edition)](https://book.douban.com/subject/26678595/) | TBD |
