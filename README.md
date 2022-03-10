@@ -20,6 +20,5 @@
 | [Humanizing Reviews](https://www.processimpact.com/articles/humanizing_reviews.pdf) | 2021-01-05 |
 | [A Tour of C++ Second Edition](https://book.douban.com/subject/30271421/) | 2021-02-02 |
 | [C++17 STL Cookbook](https://book.douban.com/subject/27094843/) | 2021-03-31 |
-| [Database System Concepts (7th Edition)](https://book.douban.com/subject/30345517/) | TBD |
-| [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://book.douban.com/subject/25923597/) | TBD |
-| [凤凰架构](https://book.douban.com/subject/35492898/) | TBD |
+| [Database System Concepts (7th Edition)](https://book.douban.com/subject/30345517/) | 2021-07-28 |
+| [凤凰架构](https://book.douban.com/subject/35492898/) | 2022-03-10 |
