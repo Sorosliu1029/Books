@@ -22,3 +22,4 @@
 | [C++17 STL Cookbook](https://book.douban.com/subject/27094843/) | 2021-03-31 |
 | [Database System Concepts (7th Edition)](https://book.douban.com/subject/30345517/) | 2021-07-28 |
 | [凤凰架构](https://book.douban.com/subject/35492898/) | 2022-03-10 |
+| [xv6: a simple, Unix-like teaching operating system](https://book.douban.com/subject/35233466/) | TBD |
