@@ -24,3 +24,4 @@
 | [图解网络硬件](https://book.douban.com/subject/25919428/) | 2022-01-09 |
 | [凤凰架构](https://book.douban.com/subject/35492898/) | 2022-03-10 |
 | [xv6: a simple, Unix-like teaching operating system](https://book.douban.com/subject/35233466/) | 2022-04-18 |
+| [Pointers on C](https://book.douban.com/subject/1648645/) | TBD |
