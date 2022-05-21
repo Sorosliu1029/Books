@@ -25,3 +25,4 @@
 | [凤凰架构](https://book.douban.com/subject/35492898/) | 2022-03-10 |
 | [xv6: a simple, Unix-like teaching operating system](https://book.douban.com/subject/35233466/) | 2022-04-18 |
 | [The C Programming Language 2nd edition](https://book.douban.com/subject/1236999/) | 2022-05-17 |
+| [软技能-代码之外的生存指南](https://book.douban.com/subject/26835090/) | 2022-05-21 |
