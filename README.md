@@ -2,6 +2,7 @@
 
 | Name | Finish Date |
 | ---- | ----------- |
+| [Practical Vim: Edit Text at the Speed of Thought (2nd edition)](https://book.douban.com/subject/26678595/) | 2022-09-13 |
 | [软技能-代码之外的生存指南](https://book.douban.com/subject/26835090/) | 2022-05-21 |
 | [The C Programming Language 2nd edition](https://book.douban.com/subject/1236999/) | 2022-05-17 |
 | [xv6: a simple, Unix-like teaching operating system](https://book.douban.com/subject/35233466/) | 2022-04-18 |
